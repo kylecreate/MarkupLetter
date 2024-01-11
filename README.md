@@ -2,6 +2,8 @@
 
 [MDN Project](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter)
 
+Note: <i>Website is best viewed at 750px</i>
+
 ## Project Brief
 
 For this project, your task is to mark up a letter that needs to be hosted on a university intranet. The letter is a response from a research fellow to a prospective PhD student concerning their application to the university.
